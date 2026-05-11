@@ -66,8 +66,10 @@ while i < n:
     i += w
 
 s.close()
+```
 
-## OUPUT
+## OUTPUT
+
 <img width="1920" height="1080" alt="Screenshot 2026-05-11 091405" src="https://github.com/user-attachments/assets/20047b1c-93b0-4951-8723-5cd417eb8c8c" />
 <img width="1920" height="1080" alt="Screenshot 2026-05-11 091443" src="https://github.com/user-attachments/assets/45c3f956-a0de-462b-ac2e-a775eec64cc6" />
 
